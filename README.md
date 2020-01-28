@@ -9,4 +9,4 @@ It is a game app that must pump up the balloon in time.
 환경|버전
 ---|---|
 Android Studio|3.4.2|
-
+![video](https://github.com/cch230/balloon/blob/master/KakaoTalk_Video_20200128_1801_12_586.mp4)
