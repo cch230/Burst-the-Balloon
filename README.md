@@ -15,6 +15,6 @@ Android Studio|3.4.2|
 ### 그림을 클릭하면 유튜브 영상으로 갑니다
 [![Video Label](https://github.com/cch230/balloon/blob/master/video.jpg)](https://youtu.be/QDb0zTH6a1Q?t=0s) 
 
-[![Video Label(https://github.com/cch230/balloon/blob/master/KakaoTalk_20200128_193729200.gif)](https://youtu.be/QDb0zTH6a1Q?t=0s) 
+[![Video Label](https://github.com/cch230/balloon/blob/master/KakaoTalk_20200128_193729200.gif)](https://youtu.be/QDb0zTH6a1Q?t=0s) 
 
 
