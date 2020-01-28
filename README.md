@@ -11,12 +11,10 @@ It is a game app that must pump up the balloon in time.
 Android Studio|3.4.2|
 
 # 실행 화면 
-## (고화질은 유튜브 영상으로 보세요)
-
+## 고화질은 유튜브 영상으로 보세요
+### 그림을 클릭하면 유튜브 영상으로 갑니다
 [![Video Label](https://github.com/cch230/balloon/blob/master/video.jpg)](https://youtu.be/QDb0zTH6a1Q?t=0s) 
-** 그림을 클릭하면 유튜브 영상으로 갑니다 **
 
-[![Video Label](https://github.com/cch230/balloon/blob/master/KakaoTalk_20200128_193729200.gif) 
-https://github.com/cch230/balloon/blob/master/KakaoTalk_20200128_193729200.gif
+[![Video Label(https://github.com/cch230/balloon/blob/master/KakaoTalk_20200128_193729200.gif)](https://youtu.be/QDb0zTH6a1Q?t=0s) 
 
 
