@@ -11,4 +11,4 @@ It is a game app that must pump up the balloon in time.
 Android Studio|3.4.2|
 
 # 실행 화면
-<iframe width="640" height="360" src="https://youtu.be/QDb0zTH6a1Q" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+{% include youtube.html id="QDb0zTH6a1Q" %}  
