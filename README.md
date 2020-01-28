@@ -11,4 +11,5 @@ It is a game app that must pump up the balloon in time.
 Android Studio|3.4.2|
 
 # 실행 화면
-{% include youtube.html id="QDb0zTH6a1Q" %}  
+
+[![Video Label](http://img.youtube.com/vi/QDb0zTH6a1Q/0.jpg)](https://youtu.be/QDb0zTH6a1Q?t=0s) Video Label
