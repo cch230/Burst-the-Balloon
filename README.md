@@ -1,20 +1,17 @@
-# °£´ÜÇÑ Ç³¼±ÅÍ¶ß¸®±â °ÔÀÓ ¾îÇÃ
+# ê°„ë‹¨í•œ í’ì„ í„°ëœ¨ë¦¬ê¸° ê²Œì„ ì–´í”Œ
 # Pump Up Balloon
-½Ã°£ ³»¿¡ Ç³¼±À» ÅÍ¶ß·Á¾ßÇÏ´Â °ÔÀÓ ¾îÇÃÀÔ´Ï´Ù
+ì‹œê°„ ë‚´ì— í’ì„ ì„ í„°ëœ¨ë ¤ì•¼í•˜ëŠ” ê²Œì„ ì–´í”Œì…ë‹ˆë‹¤
 
 It is a game app that must pump up the balloon in time.
-### ÃÖÃ¶È¯
+
+### ìµœì² í™˜
 ## Representative email : cch01024857239@gmail.com
-# °³¹ßÈ¯°æ (Development environment)
-È¯°æ|¹öÀü
----|---|
-Android Studio|3.4.2|
 
-# ½ÇÇà È­¸é 
-## °íÈ­ÁúÀº À¯Æ©ºê ¿µ»óÀ¸·Î º¸¼¼¿ä
-### ±×¸²À» Å¬¸¯ÇÏ¸é À¯Æ©ºê ¿µ»óÀ¸·Î °©´Ï´Ù
-[![Video Label](https://github.com/cch230/balloon/blob/master/video.jpg)](https://youtu.be/QDb0zTH6a1Q?t=0s) 
+# ì‹¤í–‰ í™”ë©´ 
+## ê³ í™”ì§ˆì€ ìœ íŠœë¸Œ ì˜ìƒìœ¼ë¡œ ë³´ì„¸ìš”
+### ê·¸ë¦¼ì„ í´ë¦­í•˜ë©´ ìœ íŠœë¸Œ ì˜ìƒìœ¼ë¡œ ê°‘ë‹ˆë‹¤
+[![Video Label](https://github.com/cch230/balloon/blob/master/images/KakaoTalk_20200827_212202580.jpg)](https://youtu.be/rZtn6JXcOxw?t=0) 
 
-[![Video Label](https://github.com/cch230/balloon/blob/master/KakaoTalk_20200128_193729200.gif)](https://youtu.be/QDb0zTH6a1Q?t=0s) 
+[![Video Label](https://github.com/cch230/balloon/blob/master/images/ezgif.com-video-to-gif.gif)](https://youtu.be/rZtn6JXcOxw?t=0s) 
 
-
+ 
