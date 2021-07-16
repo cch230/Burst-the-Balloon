@@ -5,8 +5,8 @@
 It is a game app that must pump up the balloon in time.  
   
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cch230/Burst-the-Balloon" style="display: block; object-fit: cover; border-radius: 1px; width: 100%; pointer-events: auto;">
-### 최철환
-## Representative email : cch01024857239@gmail.com
+### 최철환  
+## Representative email : cch01024857239@gmail.com  
 
 # 실행 화면 
 ## 고화질은 유튜브 영상으로 보세요
